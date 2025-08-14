@@ -25,9 +25,9 @@
 ## 📊 GitHub Stats  
 <div align="center">
 
-| ![](https://github-readme-stats.vercel.app/api?username=ASIFALI0001&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) | ![](https://nirzak-streak-stats.vercel.app/?user=ASIFALI0001&theme=tokyonight&hide_border=true) |
+| ![](https://github-readme-stats.vercel.app/api?username=ASIFALI0001&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=7200) | ![](https://nirzak-streak-stats.vercel.app/?user=ASIFALI0001&theme=tokyonight&hide_border=true) |
 |---|---|
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ASIFALI0001&theme=tokyonight&hide_border=true&layout=compact) |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ASIFALI0001&langs_count=10&theme=tokyonight&hide_border=true&layout=compact&count_private=true&cache_seconds=7200) |
 
 </div>
 
