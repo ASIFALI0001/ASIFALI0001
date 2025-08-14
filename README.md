@@ -12,22 +12,27 @@
 <!-- About Section with GIF -->
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 Currently learning **MERN Stack, Machine Learning, App Development, Generative AI**
-- 👯 Open to collaborate on **Full MERN Stack Projects**
-- 🤝 Seeking help with **Generative AI-Based Learning Platform**
-- 👨‍💻 My projects are at [github.com/ASIFALI0001](https://github.com/ASIFALI0001)
-- 💬 Ask me about **Java, C, Python, React, Node.js, Express.js, MongoDB, Tailwind CSS, DSA**
-- 📫 Reach me at **asif.ethical@gmail.com**
-- ⚡ Fun fact: **Semicolons are optional, but coffee isn’t ☕**
+- 🌱 Currently learning **MERN Stack, Machine Learning, App Development, Generative AI**  
+- 👯 Open to collaborate on **Full MERN Stack Projects**  
+- 🤝 Seeking help with **Generative AI-Based Learning Platform**  
+- 👨‍💻 My projects are at [github.com/ASIFALI0001](https://github.com/ASIFALI0001)  
+- 💬 Ask me about **Java, C, Python, React, Node.js, Express.js, MongoDB, Tailwind CSS, DSA**  
+- 📫 Reach me at **asif.ethical@gmail.com**  
+- ⚡ Fun fact: **Semicolons are optional, but coffee isn’t ☕**  
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
 
-| ![](https://github-readme-stats.vercel.app/api?username=ASIFALI0001&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=7200) | ![](https://nirzak-streak-stats.vercel.app/?user=ASIFALI0001&theme=tokyonight&hide_border=true) |
-|---|---|
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ASIFALI0001&langs_count=10&theme=tokyonight&hide_border=true&layout=compact&count_private=true&cache_seconds=7200) |
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=ASIFALI0001&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=7200" alt="GitHub Stats" />
+
+<!-- GitHub Streak Card -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ASIFALI0001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASIFALI0001&langs_count=10&theme=tokyonight&hide_border=true&layout=compact&count_private=true&cache_seconds=7200" alt="Top Languages" />
 
 </div>
 
@@ -35,16 +40,16 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ASIFALI0001&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ASIFALI0001&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
 
 ## 🌐 Connect with Me
 <p align="center">
-<a href="https://www.linkedin.com/in/mdasifali1/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+  <a href="https://www.linkedin.com/in/mdasifali1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
@@ -74,4 +79,3 @@
     <img src="https://visitcount.itsvg.in/api?id=ASIFALI0001&icon=0&color=0" alt="Profile Visit Count"/>
   </a>
 </p>
-
