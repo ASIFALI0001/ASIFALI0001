@@ -1,6 +1,6 @@
 <!-- Intro with Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=800&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Asif+Ali;Full-Stack+Developer;AI+Enthusiast+from+India" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=800&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Asif+Ali;Full-Stack+Developer;AI+Enthusiast" alt="Typing Animation" />
 </h1>
 
 <p align="center">
