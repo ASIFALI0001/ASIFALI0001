@@ -12,9 +12,11 @@
 
 I build AI agents and the systems around them: orchestration, tools, retrieval, a backend and a clean interface on top.
 
-- **MediIQ-Advanced:** a 9-agent clinical pipeline for telemedicine
-- **DevMind:** 9 planning agents plus a multi-model build engine
-- Final-year B.E. in Information Science, based in Bengaluru
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ASIFALI0001/ASIFALI0001/main/assets/what-i-build.svg" width="100%" alt="What I build: MediIQ-Advanced helps patients get safer, faster care. DevMind turns a plain-English idea into a built project. PrepHub helps students get ready for technical interviews." />
+
+</div>
 
 <br/>
 
